@@ -1,9 +1,9 @@
 
-# Ứng dụng Selenium WebDriver để kiểm thử website bán thực phẩm
+# Ứng dụng công cụ Selenium WebDriver để kiểm thử website Bán thực phẩm
 
 ## 📌 Giới thiệu
 
-Đây là báo cáo thực tập tốt nghiệp với đề tài **"Ứng dụng Selenium WebDriver để kiểm thử website bán thực phẩm"**. Dự án nhằm xây dựng và thực hiện các ca kiểm thử tự động giúp đảm bảo chất lượng phần mềm, giảm thời gian và công sức kiểm thử thủ công.
+Đây là báo cáo thực tập tốt nghiệp với đề tài **"Ứng dụng công cụ Selenium WebDriver để kiểm thử website Bán thực phẩm"**. Dự án nhằm xây dựng và thực hiện các ca kiểm thử tự động giúp đảm bảo chất lượng phần mềm, giảm thời gian và công sức kiểm thử thủ công.
 
 ## 🛠️ Công nghệ sử dụng
 
